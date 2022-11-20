@@ -6,3 +6,6 @@ Data Science portfolio
 - sought out features from the text to quintify the value companies put on python excel aws
 - optimize linear regression, Random forest using GridsearchCV to reach the best model
 - build client facing API
+
+
+# [Project 2 Image Classifier: Date fruit dataset]
