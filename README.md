@@ -9,3 +9,4 @@ Data Science portfolio
 
 
 # [Project 2 Mapping hotsprings: NOAA Dataset](file:///C:/Users/aleks/Documents/Mapping/MapNOAA.html)
+(Image/Hot springs Mapping.jpg)
