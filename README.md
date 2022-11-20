@@ -10,4 +10,4 @@ Data Science portfolio
 
 # [Project 2 Mapping hotsprings: NOAA Dataset]
 
-https://github.com/aleszcz/Aleks_portfolio/blob/fca01e5a2ccf8fdbf117703ce2a90a3ed6301a64/Image/Hot%20springs%20Mapping.jpg
+https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.jpg
