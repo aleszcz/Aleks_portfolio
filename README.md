@@ -8,6 +8,6 @@ Data Science portfolio
 - build client facing API
 
 
-# [Project 2 Mapping hotsprings: NOAA Dataset](file:///C:/Users/aleks/Documents/Mapping/MapNOAA.html)
+# [Project 2 Mapping hotsprings: NOAA Dataset]
 
 https://github.com/aleszcz/Aleks_portfolio/blob/fca01e5a2ccf8fdbf117703ce2a90a3ed6301a64/Image/Hot%20springs%20Mapping.jpg
