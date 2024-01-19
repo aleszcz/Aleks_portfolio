@@ -11,7 +11,7 @@
 - Noun-Phrases Analysis
 - Noun-Phrases Count and Display (First 1,000 Characters)
 - Total Noun-Phrases Count and Top-10 Noun-Phrases with Highest Frequency
-- Word Frequency WordClouds
+- Word Frequency WordClouds 
   
 # [Parts-of-Speech-Tagging and Spelling Correction]
 - SpellingError and TextBlob function
