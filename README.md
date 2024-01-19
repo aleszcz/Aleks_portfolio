@@ -3,7 +3,7 @@
 # NLP portfolio
 
 # [Project: Text Analysis using TextBlob]
-- Count and display the words inthe first 1,000 characters of the text.
+- Count and display the words in the first 1,000 characters of the text
 - Total Word Count and Unique Word Count
 - Unique Word Count (After Removing Stop-words)
 - Top-10 Words with Highest Frequency
