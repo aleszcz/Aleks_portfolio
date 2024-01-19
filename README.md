@@ -1,7 +1,7 @@
 # Aleks_portfolio
 
 # NLP portfolio
-[Project: Analysis of the Words]
+[Project: Text Analysis using TextBlob]
 - Count and display the words inthe first 1,000 characters of the text.
 - Total Word Count and Unique Word Count
 - Unique Word Count (After Removing Stop-words)
@@ -11,6 +11,8 @@
 - Noun-Phrases Count and Display (First 1,000 Characters)
 - Total Noun-Phrases Count and Top-10 Noun-Phrases with Highest Frequency
 - Word Frequency WordClouds
+[Parts-of-Speech-Tagging and Spelling Correction]
+- SpellingError and TextBlob function
 
 # Data Science portfolio
 [Project 1 Data Science Salary Estimator: Project Overview] 
