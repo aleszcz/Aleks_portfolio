@@ -15,6 +15,15 @@
   
 # [Parts-of-Speech-Tagging and Spelling Correction]
 - SpellingError and TextBlob function
+# [Sentiments = Polarity + Subjectivity]
+Sentiment analysis, language understanding, translation
+- Naïve Bayes Sentiment Analyzer
+- Language Detection + Translation
+- Inflection: Pluralization + Singularization
+- Semantics using nGrams
+- Entity Recognition: spaCy
+- Similarity Detection: spaCy
+- 
 
 # Data Science portfolio
 [Project 1 Data Science Salary Estimator: Project Overview] 
