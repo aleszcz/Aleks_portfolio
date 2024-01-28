@@ -23,7 +23,12 @@ Sentiment analysis, language understanding, translation
 - Semantics using nGrams
 - Entity Recognition: spaCy
 - Similarity Detection: spaCy
-- 
+# MATH and vectorization
+- BOW Term Freq
+- Zipfs Law
+- NLP pipeline and text cleaning
+- nGram Vectorizer
+- TF-IDF
 
 # Data Science portfolio
 [Project 1 Data Science Salary Estimator: Project Overview] 
