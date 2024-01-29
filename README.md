@@ -29,6 +29,13 @@ Sentiment analysis, language understanding, translation
 - NLP pipeline and text cleaning
 - nGram Vectorizer
 - TF-IDF
+# SMS Spam Project
+-> read and explore text 
+-> remove punctuation
+-> tokenization
+-> remove stopwords
+-> lemmatization
+-> Vectorization
 
 # Data Science portfolio
 [Project 1 Data Science Salary Estimator: Project Overview] 
