@@ -23,13 +23,13 @@ Sentiment analysis, language understanding, translation
 - Semantics using nGrams
 - Entity Recognition: spaCy
 - Similarity Detection: spaCy
-# MATH and vectorization
+# [MATH and vectorization]
 - BOW Term Freq
 - Zipfs Law
 - NLP pipeline and text cleaning
 - nGram Vectorizer
 - TF-IDF
-# SMS Spam Project
+# [SMS Spam Project]
 -> read and explore text 
 -> remove punctuation
 -> tokenization
