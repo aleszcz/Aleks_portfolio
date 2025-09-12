@@ -51,7 +51,7 @@ Sentiment analysis, language understanding, translation
 [](https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.jpg)
 [](https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.png)
 
-Chosen papers:
+# Chosen papers:
 A. Leszczynska, M. Moqubel, A. Ramirez, B. Thielen, K. Tran, B. Webb, AI-Assisted analysis of respiratory infection in pregnancy. AIM-AHEAD, NIH, 2025
 E. Trifylli, A. Leszczynska, A. Kriebardis, N. Papadopoulos, M. Deutsch, A Angelakis, A 3x3+3: diagnostic power of three proteins in advanced liver fibrosis: a minimalistic shallow-deep neural network approach on metabolic dysfunction–associated steatotic liver disease patients. EASL 2025
 A. Leszczynska, B. Kaufmann, C. Stoess, H. Sung, Y. Choi, A. Kim, A. Reca, T. Crafts, B. Wolfe, A. Eguchi, A. Feldstein, Machine Learning based Predictive Modeling using Proteomic Signatures in Extracellular Vesicles as Diagnostic Indicators of Metabolic Dysfunction-Associated Steatohepatitis. AASLD 2024 
