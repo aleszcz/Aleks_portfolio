@@ -1,0 +1,20 @@
+# Core dependencies
+aiohttp==3.9.1
+pydantic==2.5.2
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# Bioinformatics
+biopython==1.83
+GEOparse==2.0.4
+
+# Data processing (NumPy 1.x for compatibility)
+pandas==2.1.4
+numpy>=1.24.0,<2.0.0
+
+# Web framework
+streamlit==1.29.0
+
+# Additional utilities
+aiofiles==23.2.1
+python-dotenv==1.0.0
