@@ -173,7 +173,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aleszcz/Aleks_portfolio/blob/main/GenoScope_1/license/license_file.md) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@www.linkedin.com/in/to-aleks-les)
 
 Project Link: [https://github.com/yourusername/genoscope](https://github.com/yourusername/genoscope)
 
