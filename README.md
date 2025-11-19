@@ -45,6 +45,8 @@ Sentiment analysis, language understanding, translation
 - optimize linear regression, Random forest using GridsearchCV to reach the best model
 - build client facing API
 
+# Enginering 
+- RAG
 
 # [Project 2 Mapping hotsprings: NOAA Dataset]
 
