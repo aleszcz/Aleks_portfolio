@@ -164,13 +164,6 @@ Week 3: Implement improvements → Climb leaderboard → Top 50%
 Month 1: Advanced techniques → Ensemble models → Top 25%
 ```
 
-## 🏆 What Others Say
-
-> "I went from zero ML knowledge to top 40% in 2 weeks!" - Sarah
-
-> "The code just works. Perfect for beginners!" - Mike
-
-> "Finally, a tutorial that doesn't assume I have a $3000 GPU!" - Priya
 
 ## 🌟 Why This Competition?
 
