@@ -371,7 +371,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Info
 
-- **Your Name**: 
+- **Your Name**: ALEX
 - **Kaggle**: [Your Kaggle Profile]([(https://www.kaggle.com/alexlesz)]
 
 ---
