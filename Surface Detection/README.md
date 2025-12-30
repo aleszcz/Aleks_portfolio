@@ -369,11 +369,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - EduceLab for developing Volume Cartographer
 - The entire community of scroll enthusiasts and researchers
 
-## 📞 Contact
+## Info
 
-- **Your Name**: [Your Email]
-- **GitHub**: [@YourUsername](https://github.com/YourUsername)
-- **Kaggle**: [Your Kaggle Profile](https://www.kaggle.com/yourusername)
+- **Your Name**: 
+- **Kaggle**: [Your Kaggle Profile]([(https://www.kaggle.com/alexlesz)]
 
 ---
 
