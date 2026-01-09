@@ -1,0 +1,157 @@
+# AI-Assisted As-Built Ingestion for Revit HVAC Systems
+
+## Overview
+
+Manual input of HVAC as-built drawings into Revit is one of the most time-consuming, error-prone, and frustrating tasks in mechanical engineering workflows. As-built data is often incomplete, inconsistent, and locked in legacy formats such as scanned PDFs, hand-marked drawings, spreadsheets, and field notes.
+
+This project proposes an **AI-assisted system that transforms messy HVAC as-builts into structured, Revit-ready data**, reducing manual effort while preserving engineering judgment through human-in-the-loop validation.
+
+The goal is **not full automation**, but to achieve **80–90% structured completeness**, which dramatically accelerates BIM modeling and retrofit workflows.
+
+---
+
+## Problem Statement
+
+### Current Pain Points
+- HVAC as-builts exist in unstructured formats (PDFs, scans, notes)
+- Engineers manually redraw systems in Revit
+- Missing or inconsistent metadata (CFM, duct size, equipment capacity)
+- High cost of rework and verification
+- Legacy documentation slows down modernization projects
+
+This is fundamentally a **data understanding and reasoning problem**, not a CAD problem.
+
+---
+
+## Project Goal
+
+Build a multimodal AI system that:
+- Ingests HVAC as-built documentation
+- Extracts and structures system components
+- Infers logical connections and constraints
+- Outputs Revit-compatible structured data
+- Flags inconsistencies and missing information
+
+---
+
+## Inputs
+
+- PDF HVAC as-built drawings
+- Scanned floor plans
+- Equipment schedules (tables, spreadsheets)
+- Field notes (text or photos)
+
+---
+
+## Outputs
+
+- Structured HVAC component data:
+  - ducts
+  - equipment
+  - connections
+  - metadata (CFM, tonnage, pressure, dimensions)
+- Revit-ready JSON or intermediate BIM schema
+- Warnings and confidence scores for inferred elements
+
+---
+
+## System Architecture (Conceptual)
+
+### 1. Multimodal Parsing
+- **Vision models** for drawing and symbol extraction
+- **NLP models** for schedules, notes, and annotations
+- **Table extraction** for equipment metadata
+
+### 2. HVAC Reasoning Engine
+- Encodes HVAC domain constraints:
+  - airflow continuity
+  - duct sizing logic
+  - equipment compatibility
+- Infers missing links and attributes
+- Detects impossible or inconsistent configurations
+
+### 3. Human-in-the-Loop Validation
+- Engineers review AI-suggested structures
+- Accept, edit, or reject inferred components
+- Corrections improve future performance
+
+---
+
+## Key Features
+
+### Automated As-Built Structuring
+Transforms legacy documentation into structured system representations.
+
+### Next-Gen Autocomplete for BIM
+As components are placed, the system suggests:
+- logical next duct runs
+- appropriate sizes
+- likely connections
+
+### Automated Root Cause Analysis
+Flags:
+- airflow mismatches
+- missing equipment
+- conflicting specifications
+
+### Legacy System Modernization
+Bridges old documentation formats with modern BIM workflows.
+
+---
+
+## Alignment with AI Engineering Conference Themes
+
+| Conference Theme | Alignment |
+|-----------------|-----------|
+| Understanding & generating the 3D world | HVAC systems as spatial graphs |
+| Automated root cause analysis | Constraint violation detection |
+| Next-gen autocomplete | Assisted component placement |
+| Loosening the legacy grip | PDFs → BIM |
+| Save us money | Reduced manual labor and rework |
+
+---
+
+## Why This Project Matters
+
+- Addresses a **real, expensive industry pain**
+- Demonstrates practical AI engineering, not hype
+- Combines vision, language, and reasoning
+- Bridges mechanical engineering and machine learning
+- Enables faster retrofits and modernization
+
+---
+
+## Why This Project Is Personally Motivating
+
+- Directly targets a frustrating manual workflow
+- Uses domain expertise in HVAC and mechanical systems
+- Produces visible, tangible outcomes
+- Emphasizes systems thinking and explainability
+- Balances automation with engineering judgment
+
+---
+
+## MVP Scope (Conference Demo)
+
+- Input: PDF HVAC drawing + equipment schedule
+- Output:
+  - structured JSON of HVAC components
+  - inferred connections with confidence scores
+- Visualization outside Revit (optional)
+
+A full Revit plugin is **not required** for initial impact.
+
+---
+
+## Future Extensions
+
+- Revit API integration
+- Semi-automated component placement
+- Feedback-driven model improvement
+- Support for other MEP systems (plumbing, electrical)
+
+---
+
+## Summary
+
+This project demonstrates how AI can meaningfully reduce manual engineering labor by structuring messy real-world data, while respecting domain constraints and human expertise. It represents **practical, high-impact AI engineering** at the intersection of mechanical systems, multimodal learning, and real-world workflows.
