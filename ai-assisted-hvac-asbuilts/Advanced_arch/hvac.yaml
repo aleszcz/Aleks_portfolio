@@ -1,0 +1,68 @@
+# HVAC Dataset Configuration for YOLOv9 Training
+# Place this file in: Training/data/hvac.yaml
+
+# Dataset paths
+path: ../data/hvac  # Root directory
+train: images/train  # Train images (relative to 'path')
+val: images/val      # Val images (relative to 'path')
+test: images/test    # Test images (optional, relative to 'path')
+
+# Number of classes
+nc: 16
+
+# Class names
+names:
+  0: duct_supply_rect
+  1: duct_return_rect
+  2: duct_supply_round
+  3: diffuser_ceiling_sq
+  4: diffuser_ceiling_rd
+  5: grille_supply
+  6: grille_return
+  7: vav_box
+  8: fan_exhaust
+  9: air_handler
+  10: fitting_elbow_90
+  11: fitting_tee
+  12: damper_volume
+  13: annotation_dimension
+  14: annotation_text
+  15: annotation_flow_arrow
+
+# Download (optional - for auto-downloading dataset)
+# download: https://yourserver.com/hvac_dataset.zip
+
+# Dataset structure should be:
+#
+# data/hvac/
+# ├── images/
+# │   ├── train/
+# │   │   ├── drawing_001.jpg
+# │   │   ├── drawing_002.jpg
+# │   │   └── ...
+# │   ├── val/
+# │   │   ├── drawing_101.jpg
+# │   │   └── ...
+# │   └── test/
+# │       ├── drawing_201.jpg
+# │       └── ...
+# └── labels/
+#     ├── train/
+#     │   ├── drawing_001.txt
+#     │   ├── drawing_002.txt
+#     │   └── ...
+#     ├── val/
+#     │   ├── drawing_101.txt
+#     │   └── ...
+#     └── test/
+#         ├── drawing_201.txt
+#         └── ...
+#
+# Label format (YOLO):
+# Each .txt file contains one line per object:
+# <class_id> <x_center> <y_center> <width> <height>
+# All values are normalized to [0, 1]
+#
+# Example:
+# 0 0.5 0.5 0.2 0.1  # duct_supply_rect at center
+# 3 0.3 0.4 0.05 0.05  # diffuser_ceiling_sq

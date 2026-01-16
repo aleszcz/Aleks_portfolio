@@ -1,0 +1,71 @@
+# RevitAssist Configuration
+
+# API Settings
+API_HOST: "0.0.0.0"
+API_PORT: 8000
+API_WORKERS: 4
+
+# Model Settings
+MODEL_PATH: "./models/weights/yolov9_hvac.pt"
+DEVICE: "cuda"  # or "cpu"
+CONFIDENCE_THRESHOLD: 0.5
+IOU_THRESHOLD: 0.45
+IMAGE_SIZE: 1920
+
+# Processing Settings
+MAX_IMAGE_SIZE: 4096  # Maximum dimension
+PREPROCESSING:
+  resize: true
+  enhance_contrast: true
+  denoise: false
+
+# HVAC Component Classes
+CLASSES:
+  - "duct_supply_rect"
+  - "duct_return_rect"
+  - "duct_supply_round"
+  - "diffuser_ceiling_sq"
+  - "diffuser_ceiling_rd"
+  - "grille_supply"
+  - "grille_return"
+  - "vav_box"
+  - "fan_exhaust"
+  - "air_handler"
+  - "fitting_elbow_90"
+  - "fitting_tee"
+  - "damper_volume"
+  - "annotation_dimension"
+  - "annotation_text"
+  - "annotation_flow_arrow"
+
+# Spatial Reasoning Settings
+SPATIAL:
+  max_connection_distance: 100.0  # pixels
+  alignment_threshold: 0.7
+  line_detection: true
+
+# Validation Settings
+VALIDATION:
+  check_airflow_balance: true
+  check_duct_sizing: true
+  max_velocity_fpm: 2500
+  supply_return_tolerance: 0.1
+
+# Output Settings
+OUTPUT:
+  format: "json"
+  include_confidence: true
+  include_connections: true
+  include_validation: true
+
+# Training Settings (for reference)
+TRAINING:
+  epochs: 100
+  batch_size: 16
+  learning_rate: 0.001
+  image_size: 1280
+  augmentation:
+    rotation: 15
+    scale: 0.2
+    translation: 0.1
+    flip: true
