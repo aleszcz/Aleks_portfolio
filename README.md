@@ -1,5 +1,7 @@
 # Aleks_portfolio
 
+# Agentic workflow
+
 # NLP portfolio
 
 # [Project: Text Analysis using TextBlob]
@@ -47,6 +49,7 @@ Sentiment analysis, language understanding, translation
 
 # Enginering 
 - RAG
+- HVAC As-built-assist
 
 # [Project 2 Mapping hotsprings: NOAA Dataset]
 
