@@ -175,11 +175,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/aleszcz/Aleks_portfolio/blob/main/GenoScope_1/license/license_file.md) file for details.
 
-## 🙏 Acknowledgments
-
-- **NCBI E-utilities** for providing comprehensive API access
-- **Anthropic** for Claude and the Model Context Protocol (MCP)
-- The bioinformatics community for inspiration and feedback
 
 ## 📧 Contact
 
