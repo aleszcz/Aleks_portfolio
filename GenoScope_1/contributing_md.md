@@ -97,26 +97,5 @@ async def search_genomics_data(
 - Test with different query types
 - Check edge cases
 
-## 📚 Documentation
-
-- Update README.md if adding features
-- Add docstrings to new functions
-- Include usage examples
-- Update CHANGELOG.md
-
-## 🤝 Community Guidelines
-
-- Be respectful and inclusive
-- Help others learn and grow
-- Give constructive feedback
-- Acknowledge contributions
-
-## 📞 Questions?
-
-- Create an issue for questions
-- Join discussions in existing issues
-- Check documentation first
-
-## 🙏 Thank You!
 
 Your contributions help make genomics research more accessible to everyone!
