@@ -245,12 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Revit API](https://www.revitapidocs.com/) documentation
 - MEP engineering community for feedback and testing
 
-## 📧 Contact
-
-- **Project Lead**: [Your Name]
-- **Email**: your.email@example.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/RevitAssist/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/RevitAssist/discussions)
 
 ## 🗺️ Roadmap
 
@@ -272,7 +266,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] API v2
 
 ---
-
-**Star ⭐ this repo if you find it useful!**
 
 Made with ❤️ for the MEP engineering community
