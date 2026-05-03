@@ -1,6 +1,10 @@
 # Aleks_portfolio
 
 # Agentic workflow
+- Agent/Projects/Agent_as_Stat_Analysis_system
+- AgentSystem
+- Agentic RAG with Smolagents
+- Claude_setup
 
 # NLP portfolio
 
