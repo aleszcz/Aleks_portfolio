@@ -1944,12 +1944,6 @@ START: What type of outcome do you have?
 
 ---
 
-**Ready to get started?** 
-
-Contact: [your-email@example.com]  
-GitHub: [github.com/your-org/agentic-analytics]  
-Documentation: [docs.agentic-analytics.com]
-
 ---
 
 **Last Updated**: January 2025  
