@@ -61,6 +61,8 @@ Sentiment analysis, language understanding, translation
 [](https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.png)
 
 # Chosen papers:
+A. Leszczynska et al. Profiling of extracellular vesicles from primary hepatocytes, organoids, and mash patients identifies cell injury-specific signatures. Nature Portfolio Sci.Rep, 2026
+
 A. Leszczynska et al. AI-Assisted analysis of respiratory infection in pregnancy. AIM-AHEAD, NIH, 2025
 
 E. Trifylli, A. Leszczynska, A. Kriebardis, N. Papadopoulos, M. Deutsch, A Angelakis, A 3x3+3: diagnostic power of three proteins in advanced liver fibrosis: a minimalistic shallow-deep neural network approach on metabolic dysfunction–associated steatotic liver disease patients. EASL 2025
