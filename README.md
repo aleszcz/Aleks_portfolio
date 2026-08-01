@@ -59,8 +59,6 @@ Sentiment analysis, language understanding, translation
 
 [https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.jpg]
 
-[https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.png]
-
 # Chosen papers:
 [# https://aleszcz.github.io/Multi-Agent-System/]
 
