@@ -57,10 +57,27 @@ Sentiment analysis, language understanding, translation
 
 # [Project 2 Mapping hotsprings: NOAA Dataset]
 
-[](https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.jpg)
-[](https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.png)
+[[](https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.jpg)]
+
+[[](https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.png)]
 
 # Chosen papers:
+[# https://aleszcz.github.io/Multi-Agent-System/]
+
+[# https://aleszcz.github.io/Agent-architecture-two-patterns/]
+
+[# https://aleszcz.github.io/The-AI-Agent-Loop/]
+
+[# https://aleszcz.github.io/Agentic-AI-Systems_BIM-Automation/]
+
+[# https://medium.com/@aleksles/so-what-actually-makes-something-an-agent-5aa89e935650]
+
+[# https://biomarkersmlprojects.wordpress.com/wp-admin/post.php?post=46&action=edit]
+
+[# https://biomarkersmlprojects.wordpress.com/wp-admin/post.php?post=76&action=edit]
+
+[# https://biomarkersmlprojects.wordpress.com/wp-admin/post.php?post=103&action=edit]
+
 A. Leszczynska et al. Profiling of extracellular vesicles from primary hepatocytes, organoids, and mash patients identifies cell injury-specific signatures. Nature Portfolio Sci.Rep, 2026
 
 A. Leszczynska et al. AI-Assisted analysis of respiratory infection in pregnancy. AIM-AHEAD, NIH, 2025
@@ -69,12 +86,4 @@ E. Trifylli, A. Leszczynska, A., et al. A 3x3+3: diagnostic power of three prote
 
 A. Leszczynska, et al. Machine Learning based Predictive Modeling using Proteomic Signatures in Extracellular Vesicles as Diagnostic Indicators of Metabolic Dysfunction-Associated Steatohepatitis. AASLD 2024
 
-[# https://aleszcz.github.io/Multi-Agent-System/]
-
-[# https://aleszcz.github.io/Agentic-AI-Systems_BIM-Automation/]
-
-[# https://medium.com/@aleksles/so-what-actually-makes-something-an-agent-5aa89e935650]
-[# https://biomarkersmlprojects.wordpress.com/wp-admin/post.php?post=46&action=edit]
-[# https://biomarkersmlprojects.wordpress.com/wp-admin/post.php?post=76&action=edit]
-[# https://biomarkersmlprojects.wordpress.com/wp-admin/post.php?post=103&action=edit]
 
