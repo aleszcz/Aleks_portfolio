@@ -12,6 +12,8 @@
 
 [# https://aleszcz.github.io/the-VAE-told-as-one-kitchen/]
 
+[# https://aleszcz.github.io/The-Restaurant-Empire-Guide-to-Hardware-Scaling/]
+
 [# https://medium.com/@aleksles/so-what-actually-makes-something-an-agent-5aa89e935650]
 
 [# https://biomarkersmlprojects.wordpress.com/wp-admin/post.php?post=46&action=edit]
