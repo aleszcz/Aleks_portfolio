@@ -69,5 +69,4 @@ E. Trifylli, A. Leszczynska, A. Kriebardis, N. Papadopoulos, M. Deutsch, A Angel
 
 A. Leszczynska, B. Kaufmann, C. Stoess, H. Sung, Y. Choi, A. Kim, A. Reca, T. Crafts, B. Wolfe, A. Eguchi, A. Feldstein, Machine Learning based Predictive Modeling using Proteomic Signatures in Extracellular Vesicles as Diagnostic Indicators of Metabolic Dysfunction-Associated Steatohepatitis. AASLD 2024 
 
-## https://pubmed.ncbi.nlm.nih.gov/?term=Leszczynska+A&cauthor_id=32763266
 
