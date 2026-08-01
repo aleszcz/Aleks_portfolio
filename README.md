@@ -65,9 +65,9 @@ A. Leszczynska et al. Profiling of extracellular vesicles from primary hepatocyt
 
 A. Leszczynska et al. AI-Assisted analysis of respiratory infection in pregnancy. AIM-AHEAD, NIH, 2025
 
-E. Trifylli, A. Leszczynska, A. Kriebardis, N. Papadopoulos, M. Deutsch, A Angelakis, A 3x3+3: diagnostic power of three proteins in advanced liver fibrosis: a minimalistic shallow-deep neural network approach on metabolic dysfunction–associated steatotic liver disease patients. EASL 2025
+E. Trifylli, A. Leszczynska, A., et al. A 3x3+3: diagnostic power of three proteins in advanced liver fibrosis: a minimalistic shallow-deep neural network approach on metabolic dysfunction–associated steatotic liver disease patients. EASL 2025
 
-A. Leszczynska, B. Kaufmann, C. Stoess, H. Sung, Y. Choi, A. Kim, A. Reca, T. Crafts, B. Wolfe, A. Eguchi, A. Feldstein, Machine Learning based Predictive Modeling using Proteomic Signatures in Extracellular Vesicles as Diagnostic Indicators of Metabolic Dysfunction-Associated Steatohepatitis. AASLD 2024
+A. Leszczynska, et al. Machine Learning based Predictive Modeling using Proteomic Signatures in Extracellular Vesicles as Diagnostic Indicators of Metabolic Dysfunction-Associated Steatohepatitis. AASLD 2024
 
 [# https://aleszcz.github.io/Multi-Agent-System/]
 
