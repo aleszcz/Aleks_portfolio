@@ -89,6 +89,8 @@ Sentiment analysis, language understanding, translation
 
 [https://github.com/aleszcz/Aleks_portfolio/blob/main/Image/Hot%20springs%20Mapping.jpg]
 
+[# https://aleszcz.github.io/BERT-series_DL-intro/]
+
 
 
 
