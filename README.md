@@ -1,5 +1,7 @@
 # portfolio
 # Chosen papers:
+[# https://medium.com/@aleksles/titles-are-not-skills-what-a-conversation-actually-reveals-adb135d3d4ac]
+
 [# https://www.mdpi.com/3822324]
 
 [# https://aleszcz.github.io/-LLM-Inference-The-Chef-s-Kitchen-Guide/]
